@@ -12,3 +12,8 @@ Essa abordagem permite uma análise minuciosa das interações entre os diferent
 # Autores
 
 * Weikai xia - 10417722
+* Caio Caramés lanzelotti da Silva - 42221331
+* Gabriel Buonamici - 10419280
+* Kauã Paixão - 10418548
+
+
