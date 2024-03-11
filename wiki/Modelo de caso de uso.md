@@ -51,5 +51,5 @@ garantindo que tudo esteja corretamennte inserido e tudo no local certo.
 ## 3. Excel do caso de uso principal
 [Pasta1.xlsx](https://github.com/weikaixia/DevSistema2/files/14562659/Pasta1.xlsx)
 
-## 4. Diagrama de caso de usos listados no item 1
+## 4. Diagrama de caso de uso para visualizar os os casos de uso listados no item 1
     
