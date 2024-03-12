@@ -50,7 +50,8 @@ de revisar os dados e fazer as correções necessárias antes de prosseguir com 
 usuário, o sistema permite que o registro da despesa seja confirmado. Ao incorporar a funcionalidade de verificação de dados, o sistema ajuda a garantir a precisão e a consistência dos registros financeiros do usuário, 
 garantindo que tudo esteja corretamennte inserido e tudo no local certo.
 ## 3. Excel do caso de uso principal
-[Pasta1.xlsx](https://github.com/weikaixia/DevSistema2/files/14562659/Pasta1.xlsx)
+
+![imagem1](https://github.com/weikaixia/DevSistema2/assets/137851402/e49490fa-36fc-4933-9878-6245fdddecd9)
 
 ## 4. Diagrama de caso de uso para visualizar os os casos de uso listados no item 1
     
