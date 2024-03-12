@@ -1,5 +1,5 @@
 # Modelo de caso de uso 
-## 1. Casos de uso de negócio por ator(em texto listado)
+## 1. Casos de uso de negócio por ator
 * Sistema de administracao de finança:
   * Gerar relatório financeiro
   * Alertar gastos excessivos
@@ -7,6 +7,7 @@
   * Conferir dados inseridos pelo usuário
   * Sincronizar com as contas bancarias
 * Usuário:
+  * Fazer login
   * Registrar entradas e saídas
   * Categorizar despesas
   * Modificar valores e gastos (caso necessário)
