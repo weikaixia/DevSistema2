@@ -54,5 +54,4 @@ garantindo que tudo esteja corretamennte inserido e tudo no local certo.
 
 ## 4. Diagrama de caso de uso para visualizar os os casos de uso listados no item 1
     
- 
-
+ ![diag-caso-uso-UML](https://github.com/weikaixia/DevSistema2/assets/137851402/9cca8757-fd33-4e86-b886-6bf1854dd7fc)
